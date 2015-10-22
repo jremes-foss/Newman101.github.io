@@ -84,6 +84,7 @@ function koliikkiaikuinen() {
 /*
   Kirjoita koliikkiaikuisen avautumiset HTML-kenttään
 */
+
 function kirjoita() {
 	document.getElementById("koliikkiaikuinen").innerHTML = koliikkiaikuinen();
 }
@@ -110,7 +111,7 @@ adjektiivit = [
   "Paperiton",
   "Kulttuurimarxistinen",
   "sekopäinen"
-]
+];
 
 verbit = [
   "raiskaa",
@@ -129,7 +130,7 @@ verbit = [
   "kähmii",
   "ahmi",
 
-]
+];
 
 subjektit = [
 	"Sosiaalidemokraatti",
@@ -273,7 +274,7 @@ objektit = [
   "Vientiyritysten osakkeet",
   "Vanhusten iltapalan",
   "vanhusten aamupalan",
-  "vanhusten lounaan"
+  "vanhusten lounaan",
   "Suomen ylpeyden",
   "isänmaan omavaraisuuden",
   "isänmaan ylpeyden",
@@ -322,4 +323,4 @@ loppukaneetit = [
   "tapainturmelusta!",
   "propagandaa ja agitaatiota!",
   "rikollisillle pakkosterilisaatio välittömästi!"
-]
+];
