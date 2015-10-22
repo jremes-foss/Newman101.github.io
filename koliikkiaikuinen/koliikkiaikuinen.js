@@ -129,7 +129,7 @@ verbit = [
   "kähmi",
   "kähmii",
   "ahmi",
-
+  "kuppaa"
 ];
 
 subjektit = [
@@ -142,7 +142,12 @@ subjektit = [
 	"Eduskunta",
   "Kansanedustaja",
   "EU",
+  "USA",
+  "Amerikka",
+  "Venäjä",
   "Valtamedia",
+  "finanssijuutalainen",
+  "juutalainen",
 	"Muslimi",
 	"Punavihreä mädättäjä",
 	"Imaami",
@@ -150,6 +155,7 @@ subjektit = [
 	"Matu",
 	"Maahantunkeutuja",
 	"Maahanmuuttaja",
+  "Maaham muuttaja",
 	"Maahanmuuttajajengi",
 	"Turvapaikkaturisti",
 	"Pakolainen",
@@ -263,7 +269,8 @@ subjektit = [
   "naispappi",
   "vallassa oleva eliitti",
   "kansainväliselle pääoma",
-  "globalisti"
+  "globalisti",
+  "nuoriso"
 ];
 
 objektit = [
@@ -293,7 +300,8 @@ objektit = [
   "yhteiskunnan sosiaalisen järjestelmän",
   "yhteiskunnan moraaliset katsomukset",
   "suomalaisten kulttuuriset arvot",
-  "suomalaiset perinteet"
+  "suomalaiset perinteet",
+  "kaiken"
 ];
 
 loppukaneetit = [
@@ -332,5 +340,6 @@ loppukaneetit = [
   "suomi tarvitsee rautaista johtajaa!",
   "tapainturmelusta!",
   "propagandaa ja agitaatiota!",
-  "rikollisillle pakkosterilisaatio välittömästi!"
+  "rikollisillle pakkosterilisaatio välittömästi!",
+  "pakkotöihin siivoojaksi!"
 ];
