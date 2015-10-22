@@ -109,7 +109,8 @@ adjektiivit = [
   "Kuriton",
   "Perverssi",
   "Paperiton",
-  "Kulttuurimarxistinen"
+  "Kulttuurimarxistinen",
+  "sekopäinen"
 ]
 
 verbit = [
@@ -245,7 +246,19 @@ subjektit = [
   "akkalauma",
   "ammattilusmu",
   "apulaisvaltakunnansyyttäjä",
-  "elämäntapaintiaani"
+  "elämäntapaintiaani",
+  "globaalikapitalismi",
+  "vierasmaalainen",
+  "suvakki",
+  "sotarikollinen",
+  "virkamiesjohtaja",
+  "talousnero",
+  "mamujengi",
+  "rättipää",
+  "elinkeinoelämän keskusliitto",
+  "porvari",
+  "proletariaatti",
+  "pakoloinen"
 ];
 
 objektit = [
@@ -260,9 +273,15 @@ objektit = [
   "Suomen viennin",
   "Vientiyritysten osakkeet",
   "Vanhusten iltapalan",
+  "vanhusten aamupalan",
+  "vanhusten lounaan"
   "Suomen ylpeyden",
+  "isänmaan omavaraisuuden",
   "isänmaan ylpeyden",
   "perheen lapsilisät",
+  "perheen toimeentulotuet",
+  "työläisten sunnuntailisät",
+  "työläisten lomarahat",
   "työläisten palkat",
   "suoraselkäisten suomalaisten naiset"
 ];
@@ -301,5 +320,7 @@ loppukaneetit = [
   "maanpetturit!",
   "mädätystä ja iljetystä!",
   "suomi tarvitsee rautaista johtajaa!",
-  "tapainturmelusta!"
+  "tapainturmelusta!",
+  "propagandaa ja agitaatiota!",
+  "rikollisillle pakkosterilisaatio välittömästi!"
 ]
