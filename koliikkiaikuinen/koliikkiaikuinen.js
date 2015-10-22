@@ -111,7 +111,7 @@ adjektiivit = [
   "Paperiton",
   "Kulttuurimarxistinen",
   "sekopäinen"
-]
+];
 
 verbit = [
   "raiskaa",
@@ -130,7 +130,7 @@ verbit = [
   "kähmii",
   "ahmi",
 
-]
+];
 
 subjektit = [
 	"Sosiaalidemokraatti",
@@ -323,4 +323,4 @@ loppukaneetit = [
   "tapainturmelusta!",
   "propagandaa ja agitaatiota!",
   "rikollisillle pakkosterilisaatio välittömästi!"
-]
+];
