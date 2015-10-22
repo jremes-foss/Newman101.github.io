@@ -10,17 +10,17 @@ function stetson_harrison(taulukko)
         return taulukko[0];
     }
 
-	var satunnaisluku = new Array(100);
+  var satunnaisluku = new Array(100);
 
-	for (var i = 0; i < satunnaisluku.length; i++)
+  for (var i = 0; i < satunnaisluku.length; i++)
   {
-		satunnaisluku[i] = Math.random();
-	}
+    satunnaisluku[i] = Math.random();
+  }
 
-	var sl_int = satunnaisluku[Math.floor(Math.random() * satunnaisluku.length)];
-	var sl_int_abs = Math.floor(sl_int * taulukko.length);
+  var sl_int = satunnaisluku[Math.floor(Math.random() * satunnaisluku.length)];
+  var sl_int_abs = Math.floor(sl_int * taulukko.length);
 
-	return taulukko[sl_int_abs];
+  return taulukko[sl_int_abs];
 
 }
 
@@ -62,23 +62,23 @@ function generoi_loppukaneetti(loppukaneetit)
 */
 
 function koliikkiaikuinen() {
-	var puallusta = [];
+  var puallusta = [];
 
   var adjektiivi = stetson_harrison(adjektiivit);
-	var subjekti = stetson_harrison(subjektit);
+  var subjekti = stetson_harrison(subjektit);
   var verbi = stetson_harrison(verbit);
   var objekti = stetson_harrison(objektit);
   var loppukaneetti = stetson_harrison(loppukaneetit).toUpperCase();
 
-	puallusta[0] = generoi_adjektiivi(adjektiivi);
-	puallusta[1] = generoi_subjekti(subjekti);
-	puallusta[2] = generoi_verbi(verbi);
-	puallusta[3] = generoi_objekti(objekti);
+  puallusta[0] = generoi_adjektiivi(adjektiivi);
+  puallusta[1] = generoi_subjekti(subjekti);
+  puallusta[2] = generoi_verbi(verbi);
+  puallusta[3] = generoi_objekti(objekti);
 
-	var avaudu = puallusta.join(" ").toUpperCase();
-	avaudu = avaudu + "! " + loppukaneetti;
+  var avaudu = puallusta.join(" ").toUpperCase();
+  avaudu = avaudu + "! " + loppukaneetti;
 
-	return avaudu;
+  return avaudu;
 }
 
 /*
@@ -86,7 +86,7 @@ function koliikkiaikuinen() {
 */
 
 function kirjoita() {
-	document.getElementById("koliikkiaikuinen").innerHTML = koliikkiaikuinen();
+  document.getElementById("koliikkiaikuinen").innerHTML = koliikkiaikuinen();
 }
 
 /*
@@ -129,51 +129,57 @@ verbit = [
   "kähmi",
   "kähmii",
   "ahmi",
-
+  "kuppaa"
 ];
 
 subjektit = [
-	"Sosiaalidemokraatti",
-	"Kokoomuslainen",
-	"Keskustalainen",
-	"Vihreä",
-	"Vassari",
-	"Kristillisdemokraatti",
-	"Eduskunta",
+  "Sosiaalidemokraatti",
+  "Kokoomuslainen",
+  "Keskustalainen",
+  "Vihreä",
+  "Vassari",
+  "Kristillisdemokraatti",
+  "Eduskunta",
   "Kansanedustaja",
   "EU",
+  "USA",
+  "Amerikka",
+  "Venäjä",
   "Valtamedia",
-	"Muslimi",
-	"Punavihreä mädättäjä",
-	"Imaami",
-	"Turvapaikanhakija",
-	"Matu",
-	"Maahantunkeutuja",
-	"Maahanmuuttaja",
-	"Maahanmuuttajajengi",
-	"Turvapaikkaturisti",
-	"Pakolainen",
-	"Musu",
-	"Somali",
-	"Afrikkalainen",
-	"Terroristi",
-	"Laiton maahanmuuttaja",
-	"Punavihreä Mädättäjä",
-	"Virkamies",
-	"Pedofiili",
-	"Byrokraatti",
-	"loinen",
-	"poliittinen korrektius",
-	"poliisi",
-	"feministi",
-	"matuaalto",
-	"suvakkinatsi",
-	"TE-keskus",
-	"Punainen Risti",
-	"viranomaisrikollinen",
-	"jihadisti",
-	"Itäkeskus",
-	"yrittäjä",
+  "finanssijuutalainen",
+  "juutalainen",
+  "Muslimi",
+  "Punavihreä mädättäjä",
+  "Imaami",
+  "Turvapaikanhakija",
+  "Matu",
+  "Maahantunkeutuja",
+  "Maahanmuuttaja",
+  "Maaham muuttaja",
+  "Maahanmuuttajajengi",
+  "Turvapaikkaturisti",
+  "Pakolainen",
+  "Musu",
+  "Somali",
+  "Afrikkalainen",
+  "Terroristi",
+  "Laiton maahanmuuttaja",
+  "Punavihreä Mädättäjä",
+  "Virkamies",
+  "Pedofiili",
+  "Byrokraatti",
+  "loinen",
+  "poliittinen korrektius",
+  "poliisi",
+  "feministi",
+  "matuaalto",
+  "suvakkinatsi",
+  "TE-keskus",
+  "Punainen Risti",
+  "viranomaisrikollinen",
+  "jihadisti",
+  "Itäkeskus",
+  "yrittäjä",
   "matu",
   "neekeri",
   "rikollinen",
@@ -263,14 +269,15 @@ subjektit = [
   "naispappi",
   "vallassa oleva eliitti",
   "kansainväliselle pääoma",
-  "globalisti"
+  "globalisti",
+  "nuoriso"
 ];
 
 objektit = [
-	"rehellisen yrittäjän leivän",
-	"keskiluokan ostovoiman",
-	"ahkerien suomalaisten verorahat",
-	"viattoman perheen lapset",
+  "rehellisen yrittäjän leivän",
+  "keskiluokan ostovoiman",
+  "ahkerien suomalaisten verorahat",
+  "viattoman perheen lapset",
   "veronmaksajien rahat",
   "kaupungin omaisuutta",
   "lapsiperheiden sosiaalituet",
@@ -293,7 +300,8 @@ objektit = [
   "yhteiskunnan sosiaalisen järjestelmän",
   "yhteiskunnan moraaliset katsomukset",
   "suomalaisten kulttuuriset arvot",
-  "suomalaiset perinteet"
+  "suomalaiset perinteet",
+  "kaiken"
 ];
 
 loppukaneetit = [
@@ -332,5 +340,6 @@ loppukaneetit = [
   "suomi tarvitsee rautaista johtajaa!",
   "tapainturmelusta!",
   "propagandaa ja agitaatiota!",
-  "rikollisillle pakkosterilisaatio välittömästi!"
+  "rikollisillle pakkosterilisaatio välittömästi!",
+  "pakkotöihin siivoojaksi!"
 ];
