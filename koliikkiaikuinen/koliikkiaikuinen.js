@@ -258,7 +258,12 @@ subjektit = [
   "elinkeinoelämän keskusliitto",
   "porvari",
   "proletariaatti",
-  "pakoloinen"
+  "pakoloinen",
+  "lobbari",
+  "naispappi",
+  "vallassa oleva eliitti",
+  "kansainväliselle pääoma",
+  "globalisti"
 ];
 
 objektit = [
@@ -283,7 +288,12 @@ objektit = [
   "työläisten sunnuntailisät",
   "työläisten lomarahat",
   "työläisten palkat",
-  "suoraselkäisten suomalaisten naiset"
+  "suoraselkäisten suomalaisten naiset",
+  "suomalaisten elintavan",
+  "yhteiskunnan sosiaalisen järjestelmän",
+  "yhteiskunnan moraaliset katsomukset",
+  "suomalaisten kulttuuriset arvot",
+  "suomalaiset perinteet"
 ];
 
 loppukaneetit = [
