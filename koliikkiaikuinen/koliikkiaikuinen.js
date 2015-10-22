@@ -1,4 +1,3 @@
-
 /*
   Satunnaislukugeneraattori
 */
@@ -259,7 +258,7 @@ subjektit = [
   "porvari",
   "proletariaatti",
   "pakoloinen"
-]
+];
 
 objektit = [
 	"rehellisen yrittäjän leivän",
