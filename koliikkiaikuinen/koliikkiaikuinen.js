@@ -268,7 +268,7 @@ subjektit = [
   "lobbari",
   "naispappi",
   "vallassa oleva eliitti",
-  "kansainväliselle pääoma",
+  "kansainvälinen pääoma",
   "globalisti",
   "nuoriso"
 ];
