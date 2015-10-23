@@ -129,7 +129,9 @@ verbit = [
   "kähmi",
   "kähmii",
   "ahmi",
-  "kuppaa"
+  "kuppaa",
+  "rosvoaa",
+  "rosvosi"
 ];
 
 subjektit = [
@@ -270,7 +272,11 @@ subjektit = [
   "vallassa oleva eliitti",
   "kansainvälinen pääoma",
   "globalisti",
-  "nuoriso"
+  "nuoriso",
+  "yöntimo",
+  "sodomiapopulisti",
+  "viherpiiperö",
+  "sopulitoimittaja"
 ];
 
 objektit = [
@@ -341,5 +347,6 @@ loppukaneetit = [
   "tapainturmelusta!",
   "propagandaa ja agitaatiota!",
   "rikollisillle pakkosterilisaatio välittömästi!",
-  "pakkotöihin siivoojaksi!"
+  "pakkotöihin siivoojaksi!",
+  "tukka pois ja siperiaan!"
 ];
