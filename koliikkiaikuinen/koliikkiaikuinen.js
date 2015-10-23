@@ -110,7 +110,9 @@ adjektiivit = [
   "Perverssi",
   "Paperiton",
   "Kulttuurimarxistinen",
-  "sekopäinen"
+  "sekopäinen",
+  "äärivasemmistolainen",
+  "epärehellinen"
 ];
 
 verbit = [
@@ -131,7 +133,8 @@ verbit = [
   "ahmi",
   "kuppaa",
   "rosvoaa",
-  "rosvosi"
+  "rosvosi",
+  "suhmuroi"
 ];
 
 subjektit = [
@@ -276,7 +279,19 @@ subjektit = [
   "yöntimo",
   "sodomiapopulisti",
   "viherpiiperö",
-  "sopulitoimittaja"
+  "sopulitoimittaja",
+  "kasinotalous",
+  "kansainvälinen kasinotalous",
+  "liittovaltio",
+  "EU-liittovaltio",
+  "pankkiunioni",
+  "kunniakansalainen",
+  "anarkistiryhmä",
+  "muhamettilainen",
+  "päättäjä",
+  "tuhokapitalisti",
+  "arvoliberaali",
+  "arvoliberalismi"
 ];
 
 objektit = [
@@ -307,7 +322,11 @@ objektit = [
   "yhteiskunnan moraaliset katsomukset",
   "suomalaisten kulttuuriset arvot",
   "suomalaiset perinteet",
-  "kaiken"
+  "kaiken",
+  "hyvinvointiyhteiskunnan",
+  "hyvinvointivaltion",
+  "suomalaisen sosiaaliturvan",
+  "suomen itsenäisyyden"
 ];
 
 loppukaneetit = [
