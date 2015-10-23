@@ -348,5 +348,7 @@ loppukaneetit = [
   "propagandaa ja agitaatiota!",
   "rikollisillle pakkosterilisaatio välittömästi!",
   "pakkotöihin siivoojaksi!",
-  "tukka pois ja siperiaan!"
+  "tukka pois ja siperiaan!",
+  "maassa maan tavalla tai maasta pois!",
+  "rajat kiinni!"
 ];
