@@ -1,5 +1,3 @@
-# Newman101.github.io
-
 <h1>Koliikkiaikuinen</h1>
 
 <p>Arvoisa isäm maan puallustaja, kiristääkö pipo päätäsi? Ottaako pakolaistulva aivoon? Tekeekö mieli öyhöttää netin 
