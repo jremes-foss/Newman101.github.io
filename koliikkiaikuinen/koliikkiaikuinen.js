@@ -291,7 +291,12 @@ subjektit = [
   "päättäjä",
   "tuhokapitalisti",
   "arvoliberaali",
-  "arvoliberalismi"
+  "arvoliberalismi",
+  "natsisuvakki",
+  "työväenliike",
+  "lapatossu",
+  "tohvelisankari",
+  "halal-liha"
 ];
 
 objektit = [
@@ -326,7 +331,8 @@ objektit = [
   "hyvinvointiyhteiskunnan",
   "hyvinvointivaltion",
   "suomalaisen sosiaaliturvan",
-  "suomen itsenäisyyden"
+  "suomen itsenäisyyden",
+  "suomalaisen lihaa syövän heteromiehen"
 ];
 
 loppukaneetit = [
