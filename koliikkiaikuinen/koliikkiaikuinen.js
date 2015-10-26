@@ -296,7 +296,11 @@ subjektit = [
   "työväenliike",
   "lapatossu",
   "tohvelisankari",
-  "halal-liha"
+  "halal-liha",
+  "vapaamatkustaja",
+  "sharia-laki",
+  "vellihousu",
+  "aseistariisuja"
 ];
 
 objektit = [
@@ -375,5 +379,7 @@ loppukaneetit = [
   "pakkotöihin siivoojaksi!",
   "tukka pois ja siperiaan!",
   "maassa maan tavalla tai maasta pois!",
-  "rajat kiinni!"
+  "rajat kiinni!",
+  "suomi tarvitsee sotilasvallankaappauksen!",
+  "höpöhöpöhuttua!"
 ];
