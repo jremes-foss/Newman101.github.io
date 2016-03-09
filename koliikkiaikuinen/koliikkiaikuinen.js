@@ -300,7 +300,16 @@ subjektit = [
   "vapaamatkustaja",
   "sharia-laki",
   "vellihousu",
-  "aseistariisuja"
+  "aseistariisuja",
+  "suvakkiämmä",
+  "somalineekeri",
+  "arvojohtaja",
+  "karvalapsi",
+  "karvavauveli",
+  "moraalisäteilijä",
+  "eläkepommi",
+  "afromusuarabi",
+  "iphone-mies"
 ];
 
 objektit = [
