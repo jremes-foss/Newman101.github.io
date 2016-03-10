@@ -122,6 +122,7 @@ verbit = [
   "tappaa",
   "raiskasi",
   "kähveltää",
+  "kähvelsi",
   "koplasi",
   "varasti",
   "tuhopoltti",
@@ -134,7 +135,8 @@ verbit = [
   "kuppaa",
   "rosvoaa",
   "rosvosi",
-  "suhmuroi"
+  "suhmuroi",
+  "vatuloi"
 ];
 
 subjektit = [
@@ -309,7 +311,9 @@ subjektit = [
   "moraalisäteilijä",
   "eläkepommi",
   "afromusuarabi",
-  "iphone-mies"
+  "iphone-mies",
+  "eurabia",
+  "kilpailukykyloikka"
 ];
 
 objektit = [
@@ -345,7 +349,8 @@ objektit = [
   "hyvinvointivaltion",
   "suomalaisen sosiaaliturvan",
   "suomen itsenäisyyden",
-  "suomalaisen lihaa syövän heteromiehen"
+  "suomalaisen lihaa syövän heteromiehen",
+  "yhteiskuntasopimuksen"
 ];
 
 loppukaneetit = [
@@ -390,5 +395,7 @@ loppukaneetit = [
   "maassa maan tavalla tai maasta pois!",
   "rajat kiinni!",
   "suomi tarvitsee sotilasvallankaappauksen!",
-  "höpöhöpöhuttua!"
+  "höpöhöpöhuttua!",
+  "maailmanpokerissa vedätetään!",
+  "eurabia on tulevaisuutta!"
 ];
