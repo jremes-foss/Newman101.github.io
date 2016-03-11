@@ -313,7 +313,11 @@ subjektit = [
   "afromusuarabi",
   "iphone-mies",
   "eurabia",
-  "kilpailukykyloikka"
+  "kilpailukykyloikka",
+  "punaporvari",
+  "vasemmistoradikaali",
+  "siirtolainen",
+  "suvaitsevaisto"
 ];
 
 objektit = [
@@ -350,7 +354,8 @@ objektit = [
   "suomalaisen sosiaaliturvan",
   "suomen itsenäisyyden",
   "suomalaisen lihaa syövän heteromiehen",
-  "yhteiskuntasopimuksen"
+  "yhteiskuntasopimuksen",
+  "suomen kansallisomaisuuden"
 ];
 
 loppukaneetit = [
