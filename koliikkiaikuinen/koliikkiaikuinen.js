@@ -112,7 +112,8 @@ adjektiivit = [
   "Kulttuurimarxistinen",
   "sekopäinen",
   "äärivasemmistolainen",
-  "epärehellinen"
+  "epärehellinen",
+  "läpimädäntynyt"
 ];
 
 verbit = [
@@ -317,7 +318,8 @@ subjektit = [
   "punaporvari",
   "vasemmistoradikaali",
   "siirtolainen",
-  "suvaitsevaisto"
+  "suvaitsevaisto",
+  "suvakkihuorasto"
 ];
 
 objektit = [
