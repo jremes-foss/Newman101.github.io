@@ -404,5 +404,6 @@ loppukaneetit = [
   "suomi tarvitsee sotilasvallankaappauksen!",
   "höpöhöpöhuttua!",
   "maailmanpokerissa vedätetään!",
-  "eurabia on tulevaisuutta!"
+  "eurabia on tulevaisuutta!",
+  "eliitti elää pilvilinnassaan!"
 ];
