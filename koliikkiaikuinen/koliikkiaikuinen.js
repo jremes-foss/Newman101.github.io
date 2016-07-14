@@ -319,7 +319,17 @@ subjektit = [
   "vasemmistoradikaali",
   "siirtolainen",
   "suvaitsevaisto",
-  "suvakkihuorasto"
+  "suvakkihuorasto",
+  "työnvieroksuja",
+  "rauhanuskovainen",
+  "suurmoskeija",
+  "halpuutus",
+  "kiky",
+  "eu-päättäjä",
+  "aavikkosaatananpalvoja",
+  "pakolaisbisnes",
+  "vetelehtijä",
+  "elintasosurffari"
 ];
 
 objektit = [
@@ -357,7 +367,8 @@ objektit = [
   "suomen itsenäisyyden",
   "suomalaisen lihaa syövän heteromiehen",
   "yhteiskuntasopimuksen",
-  "suomen kansallisomaisuuden"
+  "suomen kansallisomaisuuden",
+  "maanviljelijän tulot"
 ];
 
 loppukaneetit = [
@@ -405,5 +416,8 @@ loppukaneetit = [
   "höpöhöpöhuttua!",
   "maailmanpokerissa vedätetään!",
   "eurabia on tulevaisuutta!",
-  "eliitti elää pilvilinnassaan!"
+  "eliitti elää pilvilinnassaan!",
+  "joukkorangaistus turvapaikanhakijoille!",
+  "suomi ensin!",
+  "elintasosurffareiden lomamatkat seis!"
 ];
